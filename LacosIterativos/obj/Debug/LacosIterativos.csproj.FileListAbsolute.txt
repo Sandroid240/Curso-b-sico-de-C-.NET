@@ -1,0 +1,7 @@
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\bin\Debug\LacosIterativos.exe.config
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\bin\Debug\LacosIterativos.exe
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\bin\Debug\LacosIterativos.pdb
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\obj\Debug\LacosIterativos.csprojAssemblyReference.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\obj\Debug\LacosIterativos.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\obj\Debug\LacosIterativos.exe
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosIterativos\obj\Debug\LacosIterativos.pdb

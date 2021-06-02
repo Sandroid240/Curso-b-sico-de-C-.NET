@@ -1,0 +1,7 @@
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\NotasEscolares\bin\Debug\NotasEscolares.exe.config
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\NotasEscolares\bin\Debug\NotasEscolares.exe
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\NotasEscolares\bin\Debug\NotasEscolares.pdb
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\NotasEscolares\obj\Debug\NotasEscolares.csprojAssemblyReference.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\NotasEscolares\obj\Debug\NotasEscolares.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\NotasEscolares\obj\Debug\NotasEscolares.exe
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\NotasEscolares\obj\Debug\NotasEscolares.pdb

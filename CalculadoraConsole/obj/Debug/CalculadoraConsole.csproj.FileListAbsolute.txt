@@ -1,0 +1,10 @@
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe.config
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\bin\Debug\CalculadoraConsole.pdb
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\bin\Debug\ModuloCalduladora.dll
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\bin\Debug\ModuloCalduladora.pdb
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.csprojAssemblyReference.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.csproj.CopyComplete
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.exe
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\CalculadoraConsole\obj\Debug\CalculadoraConsole.pdb

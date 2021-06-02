@@ -1,0 +1,10 @@
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\bin\Release\SimplePaint.exe.config
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\bin\Release\SimplePaint.exe
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\bin\Release\SimplePaint.pdb
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Release\SimplePaint.csprojAssemblyReference.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Release\SimplePaint.FormPrincipal.resources
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Release\SimplePaint.Properties.Resources.resources
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Release\SimplePaint.csproj.GenerateResource.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Release\SimplePaint.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Release\SimplePaint.exe
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimplePaint\obj\Release\SimplePaint.pdb

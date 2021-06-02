@@ -1,0 +1,10 @@
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimpleToPark\bin\Release\SimpleToPark.exe.config
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimpleToPark\bin\Release\SimpleToPark.exe
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimpleToPark\bin\Release\SimpleToPark.pdb
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimpleToPark\obj\Release\SimpleToPark.csprojAssemblyReference.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimpleToPark\obj\Release\SimpleToPark.FormPrincipal2.resources
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimpleToPark\obj\Release\SimpleToPark.Properties.Resources.resources
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimpleToPark\obj\Release\SimpleToPark.csproj.GenerateResource.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimpleToPark\obj\Release\SimpleToPark.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimpleToPark\obj\Release\SimpleToPark.exe
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\SimpleToPark\obj\Release\SimpleToPark.pdb

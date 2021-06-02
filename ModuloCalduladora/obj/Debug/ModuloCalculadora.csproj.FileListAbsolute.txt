@@ -1,0 +1,6 @@
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalduladora\bin\Debug\ModuloCalduladora.dll
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalduladora\bin\Debug\ModuloCalduladora.pdb
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalduladora\obj\Debug\ModuloCalculadora.csprojAssemblyReference.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalduladora\obj\Debug\ModuloCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalduladora\obj\Debug\ModuloCalduladora.dll
+C:\Users\Home\Documents\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\ModuloCalduladora\obj\Debug\ModuloCalduladora.pdb
